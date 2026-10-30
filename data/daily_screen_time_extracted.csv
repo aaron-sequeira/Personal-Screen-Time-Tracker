@@ -1,0 +1,3 @@
+date,device,screen_minutes,active_minutes,deep_work_minutes,app_switches,breaks,longest_session_minutes,health_score,late_night_use,day_type,focus_rating
+24-10-2026,Computer,602,453,0,708,41,94,71,Yes,Weekend,
+26-10-2026,Computer,435,332,0,345,27,132,72,Yes,,
