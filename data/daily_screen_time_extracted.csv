@@ -1,3 +1,8 @@
 date,device,screen_minutes,active_minutes,deep_work_minutes,app_switches,breaks,longest_session_minutes,health_score,late_night_use,day_type,focus_rating
-24-10-2026,Computer,602,453,0,708,41,94,71,Yes,Weekend,
-26-10-2026,Computer,435,332,0,345,27,132,72,Yes,,
+46319,Computer,602,453,0,708,41,94,71,Yes,Weekend,
+46321,Computer,435,332,0,345,27,132,72,Yes,,
+46327,Computer,389,274,0,111,30,101,78,Yes,Weekend,
+46328,Computer,561,435,0,218,34,152,63,Yes,Weekday,
+46329,Computer,586,483,0,346,36,127,66,Yes,Weekday,
+46330,Computer,659,606,0,529,17,205,0,Yes,Weekday,
+46333,Computer,624,547,0,295,24,131,63,Yes,Weekend,
